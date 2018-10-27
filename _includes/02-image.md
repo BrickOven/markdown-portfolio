@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+[An Owl](https://imaging.nikon.com/lineup/dslr/d600/img/sample01/img_04.png)
